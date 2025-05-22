@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fffafc;
+    color: #3a3a3a;
+}
+header {
+    background: #ffd6e8;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    color: #d63384;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+.cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #ffb3c1;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+footer {
+    background: #fce4ec;
+    text-align: center;
+    padding: 20px;
+}
